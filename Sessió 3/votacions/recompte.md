@@ -1,4 +1,4 @@
-**Repte 1**: [Utilizar movilidad sostenible]
+**Repte 1**: [Gestionar residus]
 
 | Reptes| Quantitat de vots|
 | --- | --- |
