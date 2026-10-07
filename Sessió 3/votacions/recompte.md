@@ -1,4 +1,4 @@
-**Repte guanyador:**: [Gestionar residus]
+**Repte guanyador**: [Gestionar residus]
 
 | Reptes| Quantitat de vots|
 | --- | --- |
