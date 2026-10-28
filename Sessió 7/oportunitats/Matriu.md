@@ -4,7 +4,7 @@
 
 | POSITIUS |  | NEGATIUS |
 |---|:---:|---|
-| **FORTALESES** | | *DEBILITATS** |
+| **FORTALESES** | | **DEBILITATS** |
 | . |  | . |
 | . |  | . |
 | . |  | . |
