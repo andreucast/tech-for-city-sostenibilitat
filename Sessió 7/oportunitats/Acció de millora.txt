@@ -1,0 +1,9 @@
+Proposta: incorporar sensors als contenidors de residus.
+
+Es proposa instal·lar sensors intel·ligents als contenidors que mesurin el nivell d’ompliment i enviïn les dades en temps real a una plataforma digital de l’Ajuntament.
+
+Aquesta tecnologia permetria:
+- Avisar quan un contenidor estigui gairebé ple.
+- Optimitzar les rutes dels camions de recollida.
+- Reduir els desbordaments i l’acumulació de deixalles al carrer.
+- Estalviar combustible, temps i costos de recollida.
