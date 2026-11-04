@@ -30,7 +30,7 @@ Aquesta tecnologia permetria:
 - Reduir els desbordaments i l’acumulació de deixalles al carrer.
 - Estalviar combustible, temps i costos de recollida.
 
-Crear una aplicació o un mapa digital perquè els veïns puguin comunicar quan hi ha residus acumulats al carrer.el problema i solucionar-lo.
+Crear una aplicació o un mapa digital perquè els veïns puguin comunicar quan hi ha residus acumulats al carrer i solucionar-lo.
 
 L'aplicació o mapa digital permetria:
 - Avisar quan hi ha contenidors plens o desbordats.
