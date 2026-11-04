@@ -2,10 +2,10 @@
 En alguns carrers de Barcelona i L’Hospitalet s'acumulen residus fora dels contenidors, com bosses d'escombraries, mobles i altres deixalles per habit de les persones que no separen correctament la brossa.
 
 2. A qui li passa?
-Veïns: pateixen la brutícia, les males olors i l'acumulació de residus a prop de casa seva.
+Principalment als veïns, que pateixen la brutícia, les males olors i l'acumulació de residus als carrers i a prop dels seus habitatges.
 
 3. On passa?
-Als carrers i places de Barcelona i L’Hospitalet, especialment a prop dels habitatges dels veïns i dels comerços de la zona, on s'acumulen residus i brutícia.
+Als carrers i places de L’Hospitalet, especialment a prop dels habitatges dels veïns i dels contenidors, on s'acumulen residus i brutícia.
 
 4. Oportunitats
 - Ajuts i programes supramunicipals per impulsar projectes de sostenibilitat i economia circular.
@@ -14,14 +14,14 @@ Als carrers i places de Barcelona i L’Hospitalet, especialment a prop dels hab
 - Col·laboració amb empreses, comerços i entitats per reduir els envasos i el malbaratament alimentari.
 
 5. Què podem fer per...?
-- Controlar els contenidors que s'omplen més ràpidament.
-- Millorar la planificació dels horaris i les rutes de recollida.
-- Millorar la distribució dels contenidors segons les necessitats de cada barri.
-- Reforçar el control dels abocaments il·legals de mobles i deixalles al carrer.
+Fer campanyes informatives perquè els veïns aprenguin a separar correctament els residus.
+Facilitar als veïns una manera senzilla de comunicar problemes de brutícia al carrer.
+Crear aplicacions o mapes digitals perquè els veïns puguin avisar quan hi ha residus acumulats.
+Instal·lar sensors als contenidors perquè avisin quan estiguin gairebé plens i evitar l'acumulació de residus al carrer.
+Millorar la comunicació entre els veïns i l'Ajuntament per solucionar més ràpidament els problemes de residus.
+Millorar la distribució dels contenidors segons les necessitats de cada barri.
 
 6. Propostes amb tecnologia com a palanca
-Proposta: incorporar sensors als contenidors de residus.
-
 Es proposa instal·lar sensors intel·ligents als contenidors que mesurin el nivell d’ompliment i enviïn les dades en temps real a una plataforma digital de l’Ajuntament.
 
 Aquesta tecnologia permetria:
@@ -29,3 +29,13 @@ Aquesta tecnologia permetria:
 - Optimitzar les rutes dels camions de recollida.
 - Reduir els desbordaments i l’acumulació de deixalles al carrer.
 - Estalviar combustible, temps i costos de recollida.
+
+Crear una aplicació o un mapa digital perquè els veïns puguin comunicar quan hi ha residus acumulats al carrer. Podran indicar la ubicació, el tipus de residu i adjuntar una fotografia perquè l'Ajuntament pugui localitzar el problema i solucionar-lo.
+
+L'aplicació o mapa digital permetria:
+- Avisar quan hi ha contenidors plens o desbordats.
+- Informar sobre mobles i deixalles abandonades al carrer.
+- Indicar la ubicació exacta del problema.
+- Adjuntar fotografies de les incidències.
+- Consultar si el problema ja s'ha solucionat.
+- Facilitar la comunicació entre els veïns i l'Ajuntament.
