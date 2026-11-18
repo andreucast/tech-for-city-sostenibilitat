@@ -7,7 +7,7 @@ Veïns i veïnes de L'Hospitalet de Llobregat, especialment les persones que viu
 
 **Format:** vertical 9:16  
 **Durada aproximada:** 78 segons  
-**Canal:** Xarxes socials de l'Institut.
+**Canal:** 
 
 | Secció | Durada | Què es diu | Què s'hi veu | Text en pantalla |
 |---|---:|---|---|---|
