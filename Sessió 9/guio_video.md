@@ -1,20 +1,23 @@
-# Guió del vídeo – Gestió de residus
+# Guió del vídeo – Gestió de residus a L'Hospitalet
 
-**Públic objectiu:** Veïns i veïnes de Barcelona i L’Hospitalet, especialment els que viuen a prop de contenidors i zones on s'acumulen residus.
+## Públic objectiu
+Veïns i veïnes de L'Hospitalet de Llobregat, especialment les persones que viuen a prop de zones amb contenidors i que pateixen l'acumulació de residus al carrer.
 
-**Format:** Vertical 9:16  
-**Durada total:** 84 segons  
-**Canal:** 
+**Objectiu:** donar a conèixer el problema de l'acumulació de residus i presentar una proposta digital per comunicar aquestes incidències.
+
+**Format:** vertical 9:16  
+**Durada aproximada:** 78 segons  
+**Canal:** Xarxes socials de l'Institut.
 
 | Secció | Durada | Què es diu | Què s'hi veu | Text en pantalla |
 |---|---:|---|---|---|
-| **Problema** | 14 s | Als carrers de Barcelona i L’Hospitalet, de vegades trobem bosses d'escombraries fora dels contenidors, mobles abandonats i deixalles acumulades. Això provoca brutícia i males olors que afecten els veïns. | Imatges de contenidors plens, bosses a terra i carrers amb residus. | **Un problema que afecta els nostres barris** |
-| **Dades** | 14 s | Segons les dades oficials del 2024, a Barcelona es van generar més de 753.000 tones de residus municipals i a L’Hospitalet més de 107.000 tones. | Mostrar les dues ciutats amb les xifres apareixent a la pantalla. | **Barcelona: 753.337 tones** / **L’Hospitalet: 107.158 tones** |
-| **Idea** | 14 s | I si els veïns poguessin avisar fàcilment quan troben residus acumulats? Proposem crear una aplicació o un mapa digital per comunicar aquestes incidències. | Mostrar un mòbil amb un mapa digital i un punt marcat en una zona amb residus. | **Una aplicació per avisar i millorar els barris** |
-| **Desenvolupament** | 28 s | L'aplicació permetria indicar la ubicació exacta del problema, seleccionar el tipus de residu i adjuntar una fotografia. També es podria avisar quan un contenidor estigui ple i consultar si la incidència ja s'ha solucionat. D'aquesta manera, la informació arribaria als serveis municipals i ajudaria a identificar les zones amb més problemes. | Enregistrar una simulació de l'aplicació: seleccionar ubicació, escollir el tipus de residu, pujar una fotografia i veure una incidència al mapa. | **Ubicació · Fotografies · Avisos · Seguiment** |
-| **Benefici** | 14 s | Amb aquesta proposta, els veïns podrien comunicar els problemes més fàcilment i ajudar a mantenir els carrers més nets. Entre tots podem aconseguir uns barris més nets i agradables per viure-hi. | Mostrar veïns caminant per un carrer net i una imatge final amb el nom del projecte. | **Barris més nets, millor convivència!** |
+| Problema | 13 s | A L'Hospitalet, de vegades trobem bosses d'escombraries, mobles abandonats i altres residus fora dels contenidors. Això provoca brutícia i males olors que afecten els veïns. | Imatges de contenidors i exemples de residus acumulats al carrer. | **Residus acumulats als carrers** |
+| Dades | 13 s | Segons les dades del 2024, a L'Hospitalet es van generar més de 107.000 tones de residus. A més, la ciutat disposava de 4.018 contenidors de recollida selectiva. | Mostrar les dues xifres amb imatges de contenidors i un gràfic senzill. | **107.157 tones de residus** / **4.018 contenidors** |
+| Idea | 13 s | La nostra proposta és crear una aplicació o mapa digital perquè els veïns puguin avisar quan hi hagi problemes amb els residus al carrer. | Mostrar un mòbil amb el dibuix d'una aplicació i un mapa de la ciutat. | **Una aplicació per comunicar incidències** |
+| Desenvolupament | 26 s | Els veïns podrien indicar la ubicació del problema, seleccionar el tipus d'incidència i afegir una fotografia. Per exemple, podrien avisar d'un contenidor ple, de bosses abandonades o de mobles al carrer. Les incidències quedarien registrades en un mapa perquè els serveis municipals les poguessin consultar i tenir més informació per organitzar la neteja. | Mostrar una simulació de l'aplicació: seleccionar una incidència, marcar la ubicació al mapa i afegir una fotografia. | **Ubicació + Tipus d'incidència + Fotografia** |
+| Benefici | 13 s | Amb aquesta proposta, els veïns tindrien una manera més fàcil de comunicar els problemes. També es podria millorar el seguiment de les incidències i ajudar a mantenir els carrers més nets. | Mostrar un carrer net, contenidors ben utilitzats i veïns caminant tranquil·lament. | **Carrers més nets, barris millors** |
 
 ## Fonts de les dades
 
-- Idescat – Estadística de residus municipals de Barcelona (2024): https://www.idescat.cat/pub/?geo=mun%3A080193&id=resmc&lang=es&n=6997
-- Idescat – Estadística de residus municipals de L’Hospitalet (2024): https://www.idescat.cat/pub/?geo=mun%3A081017&id=resmc&lang=es&n=6997
+- Idescat – Estadística de residus municipals de L'Hospitalet (2024): https://www.idescat.cat/pub/?geo=mun%3A081017&id=resmc&lang=es&n=6997
+- Ajuntament de L'Hospitalet – Anuari Estadístic 2024, apartat de neteja i recollida de residus.
