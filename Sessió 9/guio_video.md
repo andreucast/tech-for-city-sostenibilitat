@@ -20,4 +20,4 @@ Veïns i veïnes de L'Hospitalet de Llobregat, especialment les persones que viu
 ## Fonts de les dades
 
 - Idescat – Estadística de residus municipals de L'Hospitalet (2024): https://www.idescat.cat/pub/?geo=mun%3A081017&id=resmc&lang=es&n=6997
-- Ajuntament de L'Hospitalet – Anuari Estadístic 2024, apartat de neteja i recollida de residus.
+- Ajuntament de L'Hospitalet – Anuari Estadístic 2024, apartat de neteja i recollida de residus.(https://www.l-h.cat/laciutat/2171920_1.aspx?id=1)
