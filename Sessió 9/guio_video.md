@@ -4,7 +4,7 @@
 
 **Format:** Vertical 9:16  
 **Durada total:** 84 segons  
-**Canal:** Xarxes socials de l'institut
+**Canal:** 
 
 | Secció | Durada | Què es diu | Què s'hi veu | Text en pantalla |
 |---|---:|---|---|---|
