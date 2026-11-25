@@ -1,0 +1,2 @@
+- Trobar una altra comparació per a la quantitat de residus que no sigui la Torre Eiffel.
+- Treure la dada de la quantitat de conenidors que hi ha a L'Hospitalet de Llobregat.
